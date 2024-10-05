@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=VrushankMali&icon=0&color=0)](https://visitcount.itsvg.in)
 [<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vrushank-mali/)</br>
 
-# Vrushank Mali
+# 👽 Vrushank Mali
 
 👨🏻‍💻Passionate Computer Scientist</br>
 ⚙️Experienced with multiple programming languages & cybersecurity tools</br>
 💼Couple years of Information Technology Service experience</br>
 👥Team projects with notable placements (Including ICPC contest, Hackathon, Senior project)</br>
-🗣️Trilingual (Gujarati, Hindi, English)</br>
+🙊Trilingual (Gujarati, Hindi, English)</br>
 🖥️Familiar with Windows (7-11) & Linux (Ubuntu, Kali)</br>
 
 ---
@@ -59,7 +59,7 @@
 
 <details>
   <summary><h3>Vrushank's CS Journey</h3></summary>
-    Hello this is just a test.
+    Coming Soon!🚀
 </details>
 
 
