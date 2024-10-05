@@ -52,7 +52,15 @@
 ### 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=VrushankMali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VrushankMali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VrushankMali&theme=dark&hide_border=false)
+<br/>
+
+#
+
+<details>
+  <summary><h3>Vrushank's CS Journey</h3></summary>
+    Hello this is just a test.
+</details>
 
 
 
